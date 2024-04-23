@@ -61,10 +61,13 @@ class Diffusion(Model):
         return x
 
     def sampleData(self):
-        time = tf.Variable([1])
-        latent = tf.Variable(np.ones((1, 128, 128, 3)))
-        context = tf.Variable([1, 2, 3, 4, 5, 6, 7, 8])
-        target = tf.Variable(np.zeros((1, 128, 128, 3)))
+        
+        # Data Base Connecters
+        
+        time = # Data Base Connecters
+        latent = # Data Base Connecters
+        context = # Data Base Connecters
+        target = # Data Base Connecters
 
         return (
 
