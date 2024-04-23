@@ -1,2 +1,2 @@
-# Stable-Diffusion
+# 9-Diffusion
  
